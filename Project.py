@@ -28,7 +28,7 @@ from sklearn.tree import DecisionTreeClassifier
 # ---------------------------------------------------------------
 # 1. LOAD DATA
 # ---------------------------------------------------------------
-data = pd.read_csv("AI-Data.csv")
+data = pd.read_csv("student_performance_cleaned.csv")
 
 # ---------------------------------------------------------------
 # 2. CORRELATION HEATMAP
